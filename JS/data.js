@@ -366,6 +366,17 @@ document.addEventListener('DOMContentLoaded', function() {
             ownerURL: 'https://github.com/RaghavGoel01',
             owner:  'Raghav'
         },
+        {
+            imgURL: './assets/images/elsa.jpg',
+            altName: 'mojo',
+            name: 'elsa',
+            type: 'dog',
+            age: '3 years',
+            personalities:  ['attractive','calmness','boldness'],
+            toy: 'puzzle box',
+            ownerURL: 'https://github.com/B2prakash',
+            owner:  'ved'
+        },
 
 
         // ADD YOUR PET HERE 
